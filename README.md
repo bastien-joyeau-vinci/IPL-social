@@ -8,7 +8,7 @@
 ---
 
 ## URL du projet
-Lien vers le dépôt GitHub : [https://github.com/votre-utilisateur/IPL-social](https://github.com/bastien-joyeau-vinci/IPL-social)  
+Lien vers le dépôt GitHub : [https://github.com/bastien-joyeau-vinci/IPL-social](https://github.com/bastien-joyeau-vinci/IPL-social)  
 
 ---
 
