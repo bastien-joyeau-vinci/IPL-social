@@ -13,5 +13,9 @@ describe('Password Checker', () => {
     it('should reject passwords without special characters', () => {
         expect(passwordChecker('Valid1234')).toBe(false);
     });
+
+    it('should reject passwords without numbers', () => {
+        expect(passwordChecker('NoSpecial!')).toBe(false);
+    });
     
 });
