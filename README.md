@@ -1,9 +1,9 @@
 # IPL Social
 
 ## Informations personnelles
-**Nom :** Joyeau 
-**Prénom :** Bastien 
-**Email Vinci :** bastien.joyeau@student.vinci.be
+**Nom :** [Joyeau]
+**Prénom :** [Bastien]
+**Email Vinci :** [bastien.joyeau@student.vinci.be]
 
 ---
 
