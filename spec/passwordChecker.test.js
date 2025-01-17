@@ -17,5 +17,11 @@ describe('Password Checker', () => {
     it('should reject passwords without numbers', () => {
         expect(passwordChecker('NoSpecial!')).toBe(false);
     });
+
+    it('should reject passwords containing "IPL" (case insensitive)', () => {
+        expect(passwordChecker('Ipl123!')).toBe(false);
+        expect(passwordChecker('ipl123!')).toBe(false);
+        expect(passwordChecker('IPL123!')).toBe(false);
+    });
     
 });
